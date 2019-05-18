@@ -1,0 +1,18 @@
+{
+  "name": "dev-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^2.1.5",
+    "express": "^4.16.4",
+    "http-proxy-middleware": "^0.19.1",
+    "mocker-api": "^1.7.4",
+    "morgan": "^1.9.1",
+    "tty-table": "^2.7.0",
+    "webpack": "^4.30.0",
+    "webpack-dev-middleware": "^3.6.2",
+    "webpack-hot-middleware": "^2.24.4",
+    "zlib": "^1.0.5"
+  }
+}

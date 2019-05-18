@@ -1,0 +1,15 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch webpack.config.js --exec node ./dev-server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "html-webpack-plugin": "^3.2.0",
+    "nodemon": "^1.18.11",
+    "webpack": "^4.30.0",
+    "webpack-hot-middleware": "^2.24.4"
+  }
+}

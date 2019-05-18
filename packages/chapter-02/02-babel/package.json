@@ -1,0 +1,25 @@
+{
+  "name": "babel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "babel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ksky521",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.4.0",
+    "@babel/plugin-transform-object-assign": "^7.2.0",
+    "@babel/plugin-transform-runtime": "^7.4.0",
+    "@babel/preset-env": "^7.4.2",
+    "babel-loader": "^8.0.5"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.4.0",
+    "@babel/runtime": "^7.4.2",
+    "core-js": "3"
+  }
+}

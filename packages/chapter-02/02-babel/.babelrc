@@ -1,0 +1,14 @@
+{
+    "presets": [
+        [
+            "@babel/preset-env",
+            {
+                "targets": {
+                    "browsers": ["ie 10"]
+                },
+                "useBuiltIns": "usage",
+                "corejs": "3.0.0"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,11 @@
+@import "body.css";
+
+body {
+    /*background: yellow;*/
+    font-size: 20px;
+}
+
+div {
+    display: flex;
+    width: 621pr;
+}

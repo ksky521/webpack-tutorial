@@ -1,0 +1,25 @@
+{
+  "name": "html-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "babel-loader": "^8.0.5",
+    "globby": "^9.2.0",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^4.0.0-beta.3",
+    "pug-html-loader": "^1.1.5",
+    "raw-loader": "^2.0.0",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ksky521",
+  "license": "ISC"
+}

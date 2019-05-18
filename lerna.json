@@ -1,0 +1,12 @@
+{
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "packages": [
+    "packages/chapter-01/*",
+    "packages/chapter-02/*",
+    "packages/chapter-03/*",
+    "packages/chapter-04/*",
+    "packages/chapter-05/*"
+  ],
+  "version": "0.0.0"
+}

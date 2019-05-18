@@ -1,0 +1,16 @@
+{
+  "name": "prefetch-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ksky521",
+  "license": "ISC",
+  "dependencies": {
+    "loader-utils": "^1.2.3",
+    "showdown": "^1.9.0"
+  }
+}

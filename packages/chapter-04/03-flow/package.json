@@ -1,0 +1,15 @@
+{
+  "name": "flow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack-flow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.29.6"
+  }
+}
