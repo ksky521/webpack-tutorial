@@ -30,7 +30,7 @@
 介绍 Webpack 的基本概念和解决的问题，从零搭建 Webpack 构建环境，带领大家体验 Webpack-CLI 的零配置打包，介绍 Webpack 的核心概念和基础配置。
 
 **配置篇**
-从模块化开发、Babel、React/Vue 配置、TypeScript 配置、CSS 样式相关配置和静态资源管理，到 Dev Server 环境配置，带领大家搭建基础开发环境。
+从模块化开发、Babel、React/Vue 配置、TypeScript配置、CSS 样式相关配置和静态资源管理，到 Dev Server 环境配置，带领大家搭建基础开发环境。
 
 **优化篇**
 在优化篇，会针对生产环境的优化手段，从静态资源体积、缓存管理和 Webpack 打包速度优化进行深入讲解，并且对 Webpack 的代码拆分（SplitChunk）和 Tree-Shaking 代码级别的实践讲解。
