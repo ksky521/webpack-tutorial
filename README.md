@@ -13,7 +13,7 @@
 > 特别说明：
 >
 > 1. 有一些小节内容比较简单，不足够支撑一个练习项目，所以没有放进本项目中，可以按照小节操作内容，自己新建项目练手；
-> 2. 如果用过[lerna](https://lernajs.io)和 yarn 的，可以使用`lerna bootstrap`开始项目。
+> 2. 如果用过[lerna](https://lernajs.io)和 [yarn](https://yarnpkg.com/) 的，可以使用`lerna bootstrap`开始项目。
 
 ### **专栏模块**
 
